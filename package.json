@@ -1,0 +1,17 @@
+{
+  "name": "mscreen",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.0",
+    "jade": "*",
+    "neo4j" : "*"
+  },
+  "engines": {
+      "node": "0.6.13",
+      "npm": "1.1.65"
+  }
+}
